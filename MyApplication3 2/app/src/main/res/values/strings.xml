@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="userTypes">
+        <item>"Player"</item>
+        <item>"Coach"</item>
+
+    </string-array>
+</resources>
